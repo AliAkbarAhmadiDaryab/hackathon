@@ -1,3 +1,6 @@
 *.env
 *.pptx
 *.pdf
+data/presentation
+data/draws
+challenges/scripts/__pycache__
